@@ -10,18 +10,18 @@ I attached my github link, Resume link, and Linkedin link all are active.
 All my html and css is clean and brief
 Screenshot of my first project some of my home work projeckes with their github link and Deployed links attached and active.
 
-![my-portfolio](./assets/Images/aboutme1.png)
+![Updated-Portfolio-2](./assets/Images/aboutme1.png)
 
-![my-portfolio](./assets/Images/aboutme2.png)
+![Updated-Portfolio-2](./assets/Images/aboutme2.png)
 
-![my-portfolio](./assets/Images/contact1.png)
+![Updated-Portfolio-2](./assets/Images/contact1.png)
 
-![my-portfolio](./assets/Images/contact2.png)
+![Updated-Portfolio-2](./assets/Images/contact2.png)
 
 
-![my-portfolio](./assets/Images/portfolio1.png)
-![my-portfolio](./assets/Images/portfolio2.png)
-![my-portfolio](./assets/Images/portfolio3.png)
+![Updated-Portfolio-2](./assets/Images/portfolio1.png)
+![Updated-Portfolio-2](./assets/Images/portfolio2.png)
+![Updated-Portfolio-2](./assets/Images/portfolio3.png)
 
 
 URL:  https://destish21.github.io/my-portfolio/
