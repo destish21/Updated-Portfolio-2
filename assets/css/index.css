@@ -34,6 +34,7 @@ body {
 }
 
 .Me {
+  /* background-color: #F5DEB3; */
     background-color: white;
     padding: 20px;
     margin-top: 60px;
@@ -41,7 +42,6 @@ body {
     margin-left: 20px;
     margin-right: 0px;
     max-width: 800px;
-    /* background-color: #F5DEB3; */
 }
 
 h1 {
@@ -67,7 +67,6 @@ h2 {
 img {
     float: left;
     margin: 10px;
-
 }
 
 .col-md-6  {
