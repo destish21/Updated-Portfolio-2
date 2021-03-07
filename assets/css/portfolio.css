@@ -45,8 +45,8 @@ img {
 .my-port {
     padding: 20px;
     margin: 60px 60px 30px 30px;
-    background-color: white;
-    background-color: #F5DEB3;
+    /* background-color: #F5DEB3; */
+    background-color: rgb(231, 219, 216);
     max-width: 900px;
     display: flex;
     flex-wrap: wrap;
