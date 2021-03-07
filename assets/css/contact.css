@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 .navbar {
+    background-color: lightblue;
     padding: 5px;
     margin: 0px;
     font-size: 1.25rem;
@@ -10,7 +11,6 @@
     text-align: center;
     display: flex;
     width: 100%;
-    background-color: lightblue;
 }
 
 body {
@@ -20,7 +20,12 @@ body {
     font-weight: 400;
     line-height: 1.5;
     background-color: rgba(204, 204, 204, 0.726);
+    background-color: rgba(204, 204, 204, 0.726);
+    background: url('../Images/BlueNile.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; 
 }
+
 .container-body{
     width: 80%;
     margin: 30px;
@@ -62,25 +67,26 @@ body {
     padding: 20px;
     line-height: 1.2;
 }
-
+.personal a {
+    font-size: 28px;
+}
 #mydivheader {
     padding: 10px 0;
     margin: 0%;
     color: green;
 }
 
-p {
+ p {
     padding: 0;
     color: green;
-    font-size: 24px;
+    font-size: 35px;
     margin-left:10%;
 }
 
 h1 {
-    background-color: lightseagreen;
+    color:black;
     font-family: serif;
     text-align: center;
-    color:white;
     font-size: 28px;
     padding: 10px 0;
     margin: 0;
@@ -107,7 +113,7 @@ h3 {
 .btn-primary {
     font-size: 20px;
     color: #fff;
-    background-color:  lightseagreen ;
+    background-color:lightseagreen ;
     border-color:lightseagreen;
     width: 10rem;
 }
