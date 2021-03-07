@@ -35,7 +35,6 @@ body {
 #container{
     padding-top: 0px, 20px;
     margin: 0, 0, 0, 20px;
-
 }
 
 #form-cont {
@@ -48,7 +47,6 @@ body {
     background-color: white;
     max-width: 450px;
     background-color: #F5DEB3;
-
 }
 
  .form-control {
@@ -67,9 +65,11 @@ body {
     padding: 20px;
     line-height: 1.2;
 }
+
 .personal a {
-    font-size: 28px;
+    font-size: 25px;
 }
+
 #mydivheader {
     padding: 10px 0;
     margin: 0%;
@@ -79,7 +79,7 @@ body {
  p {
     padding: 0;
     color: green;
-    font-size: 35px;
+    font-size: 30px;
     margin-left:10%;
 }
 
@@ -102,13 +102,12 @@ h2 {
     padding: 10px;
     font-size:28px;
 }
+
 h3 {
     padding: 0;
     color: green;
     font-size: 30px;
     margin-left:10%;
-
-  
 }
 .btn-primary {
     font-size: 20px;
@@ -144,6 +143,6 @@ footer {
 width: 90%;
 display: block;
 
-    }
+    } 
 }
 
