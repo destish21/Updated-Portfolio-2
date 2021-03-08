@@ -131,7 +131,7 @@
    * LinkdIn Profile : [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
    * Deployed URL : https://destish21.github.io/Updated-Portfolio-2/
    * github URL :   https://destish21.github.io/Updated-Portfolio-2/
-   * My ResumGooglDocs Link: https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing
+   * My ResumGoogleDocs Link: [Resume Link](https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing)
    * Email : destish21@yahoo.com
    
    # Desta Mulualem. All Rights Reserved © 03/09/2021.
