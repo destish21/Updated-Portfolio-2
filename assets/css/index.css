@@ -87,9 +87,9 @@ footer {
     background-color: #333;
     color: #efeee7;
      position: relative; 
-     height: 4.22rem; 
+     /* height: 4.22rem;  */
      padding:0 30px; 
-     bottom: 0;
+     /* bottom: 0; */
       width: 100%; 
       border-top: 5px green solid;
     }
@@ -109,6 +109,14 @@ footer {
     .navbar{
         width: 105vw;
     }
+    .Me {
+        padding: 20px;
+        margin: 15px 1px 15px 5px;
+    }
+    .btn {
+        margin: 0;
+    }
+    
     footer{
         width: 105%; 
     }
